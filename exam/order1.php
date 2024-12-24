@@ -19,9 +19,9 @@ if($_SERVER['REQUEST_METHOD']=='POST')
 
     if($res)
     {
-      $arr['msg']="New Order Product inserted Successfully!";
+      $arr['msg']="DATA SUSSECCFULLY INSERT INTO ORDER INSERT TABLE!";
     }else{
-      $arr['msg']="New Order Product not inserted ";
+      $arr['msg']="DATA NOT INSERT INTO ORDER INSERT TABLE";
     }
  }
  else{
