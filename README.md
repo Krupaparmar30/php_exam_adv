@@ -24,6 +24,15 @@ Orders Table:
 Add a new order.
 Delete an order by ID.
 
+ Testing
+Use Postman to test the APIs.
+
+Import the database using the provided database.sql file.
+
+Start the PHP server and test endpoints with appropriate payloads and HTTP methods.
+
+Validate JSON responses and error handling.
+
 
 # drive link
 
