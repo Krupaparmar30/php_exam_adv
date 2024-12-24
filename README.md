@@ -7,6 +7,11 @@ RESTful API CRUD Operations in PHP
 Project Overview
 This project demonstrates the implementation of RESTful APIs in PHP for performing CRUD (Create, Read, Update, Delete) operations on three independent tables in a MySQL database. The API adheres to REST principles and uses HTTP methods (POST, GET, PUT, DELETE) for operations.
 
+Users Table:
+Add a new user (Insert).
+Retrieve all users (Read).
+Products Table: 3. Add a new product (Insert). 4. Update a product price (Update).
+Orders Table: 5. Add a new order (Insert). 6. Delete an order by ID (Delete).
 
 CRUD Operations:
 Users Table:
